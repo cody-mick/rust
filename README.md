@@ -1,30 +1,26 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I wrote this simple supplies pulling program for hospital OR's in order to learn more about the basic functionality of Rust. I also wrote this program to see how simple it would be to organize the dynamic nature of prepping for surgeries.
 
-{Provide a description the software that you wrote to demonstrate the Rust language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/pIKoFeRg2Eg)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used VSCode to build this program. Using standard libraries
 
-{Describe the programming language that you used and any libraries.}
+This program is written using the Rust language
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [YouTube](https://www.youtube.com/c/TraversyMedia)
+* [Rust Docs](https://www.rust-lang.org/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+Things I want to add in the future
+
+* More doctors
+* More specific case card items
+* More dynamic menu system
+* More choices and struct functions
