@@ -12,7 +12,6 @@ This program is written using the Rust language
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [YouTube](https://www.youtube.com/c/TraversyMedia)
 * [Rust Docs](https://www.rust-lang.org/)
 
